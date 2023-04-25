@@ -455,7 +455,7 @@ function App() {
                     <img src={closeIcon} alt="close" onClick={() => setAdaptiveMenu(false)}/>
                     <div className="adaptive-links">
                         <a href="https://bscscan.com/token/0xcba27d7abedb5e8cc171658dc0efe829649478e3">Contract</a>
-                        <a href="#">GAME</a>
+                        <a href="http://silkydog.io/">GAME</a>
                         <a href="https://poocoin.app/tokens/0xcba27d7abedb5e8cc171658dc0efe829649478e3">poocoin</a>
                         <a href="https://app.uncx.network/amm/pancake-v2/pair/0x21D4fFe97D3806ba70eDd4f3Dd055BC10Cfa3562">unicrypt</a>
                         <a href="#">whitepaper</a>
