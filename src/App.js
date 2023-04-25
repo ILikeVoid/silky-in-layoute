@@ -66,7 +66,7 @@ function App() {
                             </div>
                             <div className="nav">
                                 <a href="https://bscscan.com/token/0xcba27d7abedb5e8cc171658dc0efe829649478e3">Contract</a>
-                                <a href="#">GAME</a>
+                                <a href="http://silkydog.io/">GAME</a>
                                 <a href="https://poocoin.app/tokens/0xcba27d7abedb5e8cc171658dc0efe829649478e3">poocoin</a>
                                 <a href="https://app.uncx.network/amm/pancake-v2/pair/0x21D4fFe97D3806ba70eDd4f3Dd055BC10Cfa3562">unicrypt</a>
                                 <a href="#">whitepaper</a>
@@ -79,8 +79,9 @@ function App() {
                                     <div className="text">
                                         <div className="title-head">
                                             <div className="play">
-                                                <a href="https://www.youtube.com/watch?v=G2Br6wiJ198"><img src={play}
-                                                                                                           alt="play"/></a>
+                                                <a href="https://www.youtube.com/watch?v=G2Br6wiJ198">
+                                                    <img src={play} alt="play"/>
+                                                </a>
                                                 <div className="play-text">watching video about Silky Inu</div>
                                             </div>
                                             <h1>WELCOME TO SILKY INU</h1>
