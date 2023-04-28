@@ -70,7 +70,7 @@ function App() {
                                 <a href="https://poocoin.app/tokens/0xcba27d7abedb5e8cc171658dc0efe829649478e3">poocoin</a>
                                 <a href="https://app.uncx.network/amm/pancake-v2/pair/0x21D4fFe97D3806ba70eDd4f3Dd055BC10Cfa3562">unicrypt</a>
                                 <a href="#">whitepaper</a>
-                                <a href="#">NFT</a>
+                                <a href="https://silkyinunft.com">NFT</a>
                             </div>
                         </div>
                         <div className="title">
@@ -94,8 +94,8 @@ function App() {
                                     <a href="https://pancakeswap.finance/swap?outputCurrency=0xcba27D7abEdB5E8cc171658dC0eFE829649478e3&chainId=56">
                                         <button>BUY ON PANCAKESWAP</button>
                                     </a>
-                                    <a href="#">
-                                        <button>NFT coming soon</button>
+                                    <a href="https://silkyinunft.com">
+                                        <button>NFT</button>
                                     </a>
                                 </div>
                             </div>
@@ -459,7 +459,7 @@ function App() {
                         <a href="https://poocoin.app/tokens/0xcba27d7abedb5e8cc171658dc0efe829649478e3">poocoin</a>
                         <a href="https://app.uncx.network/amm/pancake-v2/pair/0x21D4fFe97D3806ba70eDd4f3Dd055BC10Cfa3562">unicrypt</a>
                         <a href="#">whitepaper</a>
-                        <a href="#">NFT</a>
+                        <a href="https://silkyinunft.com">NFT</a>
                     </div>
                 </div>
                 : null}
